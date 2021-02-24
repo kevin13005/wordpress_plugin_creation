@@ -1,2 +1,15 @@
-# wordpress_plugin_creation
-This Wordpress Plugin set up a menu and enable users to add, edit, delete products from his database using wordpress functions and global variable, jquery, ajax, shortcode, 
+TUTORIAL :
+
+This Wordpress Plugin set up a menu and enable users to add, edit, delete products from his database
+use of wordpress functions and global variable, jquery, ajax, shortcode
+
+
+RUN IN LOCAL :
+
+- git clone https://github.com/kevin13005/wordpress_plugin_creation.git
+- tap in navigator --> localhost/wordpress/wp-admin
+- enter --> id : kevin69220   password : Jagger69220
+- go to url
+- remove /wp-login.php
+- put /wp-admin
+- on home page, head on the left side, push on my book to see the plugin
