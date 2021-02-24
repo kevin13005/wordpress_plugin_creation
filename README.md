@@ -11,5 +11,5 @@ RUN IN LOCAL :
 - enter --> id : kevin69220   password : Jagger69220
 - go to url
 - remove /wp-login.php
-- put /wp-admin
+- set /wp-admin
 - on home page, head on the left side, push on my book to see the plugin
