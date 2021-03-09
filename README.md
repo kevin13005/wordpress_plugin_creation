@@ -4,6 +4,11 @@ This Wordpress Plugin set up a menu and enable users to add, edit, delete produc
 use of wordpress functions and global variable, jquery, ajax, shortcode
 
 
+SEE PART STATIC OF THE WEBSITE :
+
+- click-->  https://kevin13005.github.io/wordpress_plugin_creation/
+
+
 SEE IMPLEMENTED CODE for that plugin :
 
 - go to directory --> wordpress_plugin_creation/wp-content/plugins/my-books/
